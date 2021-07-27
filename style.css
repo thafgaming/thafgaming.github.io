@@ -25,3 +25,10 @@ body {
 .nav > li > a:hover {
   color: #c1c1c1;
 }
+.logo {
+  color: #000000;
+  float: left;
+  padding-left: 25px;
+  font-size: 25px;
+  font-weight: bold;
+}
