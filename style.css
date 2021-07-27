@@ -26,10 +26,7 @@ body {
   color: #c1c1c1;
 }
 
-.logo {
-  color: #000000;
+.logo img {
   float: left;
   padding: 25px;
-  font-size: 25px;
-  font-weight: bold;
 }
