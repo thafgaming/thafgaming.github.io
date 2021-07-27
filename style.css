@@ -28,8 +28,7 @@ body {
 
 .logo {
   color: #000000;
-  float: left;
-  padding-left: 0px;
+  padding-left: 25px;
   font-size: 25px;
   font-weight: bold;
 }
