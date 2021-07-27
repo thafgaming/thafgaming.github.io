@@ -25,10 +25,3 @@ body {
 .nav > li > a:hover {
   color: #c1c1c1;
 }
-
-.logo {
-  float: left;
-  margin-top: 100px;
-  padding-left: 25px;
-  
-}
